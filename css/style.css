@@ -1,0 +1,13 @@
+@media screen and (min-width:1024px) {
+    .wel-text{
+        font-size: 30px;
+        color:rgb(79, 107, 0) ;
+        margin: 100px;
+        text-align: center;
+    } 
+}
+
+
+.container {
+    display: flex; /* or inline-flex */
+  }
